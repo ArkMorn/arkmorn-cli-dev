@@ -20,6 +20,6 @@
     "test": "echo \"npm run core\""
   },
   "dependencies": {
-    "@arkmorn-cli-dev/utils":"^1.0.0"
+    "@arkmorn-cli-dev/utils": "^1.0.0"
   }
 }

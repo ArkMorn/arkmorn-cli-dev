@@ -18,7 +18,5 @@
   },
   "scripts": {
     "test": "echo \"npm run utils\""
-  },
-  "dependencies": {
   }
 }
