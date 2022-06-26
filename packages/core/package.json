@@ -1,6 +1,6 @@
 {
   "name": "@arkmorn-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "M <584706394@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"npm run core\""
   },
   "dependencies": {
-    "@arkmorn-cli-dev/utils": "^1.0.0"
+    "@arkmorn-cli-dev/utils": "^1.0.1"
   },
   "gitHead": "c7f7819d73dbd85da69699c801f0e5567cedbc7c"
 }
