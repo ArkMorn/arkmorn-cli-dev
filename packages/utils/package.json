@@ -18,5 +18,6 @@
   },
   "scripts": {
     "test": "echo \"npm run utils\""
-  }
+  },
+  "gitHead": "c7f7819d73dbd85da69699c801f0e5567cedbc7c"
 }
