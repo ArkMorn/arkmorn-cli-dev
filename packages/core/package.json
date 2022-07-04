@@ -1,13 +1,13 @@
 {
   "name": "@arkmorn-cli-dev/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "M <584706394@qq.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
-  "bin":{
-    "arkmorn-cli-dev":"bin/index.js"
+  "bin": {
+    "arkmorn-cli-dev": "bin/index.js"
   },
   "directories": {
     "lib": "lib",
