@@ -6,9 +6,6 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
-  "bin": {
-    "arkmorn-cli-dev": "bin/index.js"
-  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -21,9 +18,6 @@
   },
   "scripts": {
     "test": "echo \"npm run core\""
-  },
-  "dependencies": {
-    "@arkmorn-cli-dev/utils": "^1.0.4"
   },
   "gitHead": "4b31839c96b5b60e231ef03d9967ee45d2e5053e"
 }
